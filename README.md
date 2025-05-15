@@ -21,7 +21,7 @@ I am passionate about learning new technologies and have a knack for quickly und
 💞️ I’m looking to collaborate on projects related to full-stack web development, open-source contributions, and innovative tech solutions.
 
 ## Contact:
-📫 You can reach me at [zeldanechama@gmail.com](mailto:zeldanechama@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zelda-nechama-sklar-1358392b8).
+📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/zelda-nechama-sklar-1358392b8).
 
 ## Fun Fact:
 ⚡ I am bilingual, fluent in Hebrew and English.
